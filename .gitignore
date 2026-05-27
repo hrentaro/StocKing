@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.venv/
+*.pyc
+train_data/*.npz
+test_data/*.npz
